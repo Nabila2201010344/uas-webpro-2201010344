@@ -1,0 +1,12 @@
+IDE: Quiz
+
+Deskripsi :
+1. Pada halaman utama, pengguna disambut dengan judul "Welcome to the Quiz!" dan terdapat tombol "Start Quiz" yang dapat diklik untuk memulai quiz.
+
+2. Setelah mengklik tombol "Start Quiz", tombol tersebut akan menghilang dan pertanyaan pertama beserta pilihan jawaban akan ditampilkan.
+
+3. Pengguna dapat memilih salah satu pilihan jawaban dengan mengklik tombol pilihan yang tersedia. Saat memilih jawaban, aplikasi akan memeriksa apakah jawaban yang dipilih benar atau salah.
+
+4. Setelah memilih jawaban, aplikasi akan menampilkan pertanyaan berikutnya dan pengguna dapat melanjutkan menjawab hingga semua pertanyaan selesai.
+
+5. Setelah menjawab semua pertanyaan, aplikasi akan menampilkan pesan "Quiz selesai!" beserta skor yang dicapai oleh pengguna, yaitu jumlah jawaban yang benar dari total pertanyaan.
